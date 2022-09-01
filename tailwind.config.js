@@ -12,7 +12,6 @@ module.exports = {
         'eray-bold': ["ERAY-BOLD", "cursive"]
       },
       colors: {
-        prototurk: '#32445a',
         gri: '#909090',
         html: '#FB923C',
         css: '#60A5FA',
