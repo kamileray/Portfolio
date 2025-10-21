@@ -20,7 +20,8 @@ module.exports = {
         bootstrap: '#7952B3',
         git: '#F97316',
         react: '#61DAFB',
-        php: '#787CB4'
+        php: '#787CB4',
+        nodejs: '#558E48'
       },
       spacing: {
         '15': '3.75rem'
